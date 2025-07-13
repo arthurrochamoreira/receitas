@@ -1,0 +1,52 @@
+site_name: Recipes Book
+repo_url: https://github.com/arthurrochamoreira/recipes
+repo_name: recipes
+extra_css:
+  - css/custom-general.css
+  - css/night-sky.css
+  - css/shooting-stars.css
+extra_javascript:
+  - https://code.jquery.com/jquery-3.6.0.min.js
+  - js/interactive.js
+  - js/shooting-stars.js
+  - js/starfield.js
+  - js/night-sky.js
+
+plugins:
+  - search
+  - mermaid2
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.footer
+    - navigation.sections
+    - navigation.index
+    #- toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.code.annotate
+    - content.code.copy
+    - header.autohide
+    - announce.dismiss
+
+  language: pt-BR
+  font:
+    text: Roboto Mono
+    code: Roboto Mono
+    heading: Montserrat
+
+  palette:
+    - scheme: slate
+      primary: deep purple
+      accent: deep orange
+
+nav:
+  - Home: index.md
+  - Pães:
+      - Pão Integral: Pães/pao_integral.md
