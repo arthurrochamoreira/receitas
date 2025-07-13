@@ -50,3 +50,5 @@ nav:
   - Home: index.md
   - Pães:
       - Pão Integral: Pães/pao_integral.md
+  - Bolos:
+      - Bolo Marmore: Bolos/bolo_marmore.md
