@@ -1,4 +1,4 @@
-# #nossacozinha – Bolo Mármore (meia receita)
+# Bolo Mármore (meia receita)
 
 **⏱️ Preparo:** 30 minutos + 50 minutos para assar  
 **🍰 Rendimento:** 1 bolo de aproximadamente 500 g (5 a 6 porções)

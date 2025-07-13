@@ -7,6 +7,11 @@
 - 380 g de água em temperatura ambiente (ou gelada em dias muito quentes – quantidade aproximada, pode ser ajustada)
 - 10 g de sal (1 colher de sobremesa rasa)
 
+**Para pincelar antes de assar:**
+
+- 1 gema
+- ½ copo de leite
+
 ---
 
 ## Modo de Preparo
@@ -35,7 +40,8 @@
    Coloque uma assadeira vazia no piso do forno (para gerar vapor depois).
 
 7. Retire o plástico, **faça cortes na superfície do pão** com uma faca bem afiada.  
-   Polvilhe com farinha de trigo usando uma peneirinha.
+   Polvilhe com farinha de trigo usando uma peneirinha.  
+   **Pincele a superfície com a mistura de gema e leite.**
 
 8. Abra a porta do forno (certifique-se de que está bem quente), **jogue ¼ de xícara de água na assadeira inferior** com muito cuidado (vai sair vapor).  
    Em seguida, **coloque o pão imediatamente no forno**.
@@ -46,5 +52,3 @@
 10. Espere pelo menos **15 minutos antes de cortar**.
 
 ---
-
-🍞 **Bom apetite!**
